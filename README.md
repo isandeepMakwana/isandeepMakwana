@@ -18,7 +18,7 @@ I am a passionate Software Developer from India 🇮🇳, specializing in backen
 - 🧩 In my free time, I contribute to **open-source projects**, solve problems on **LeetCode**, and read technical blogs.
 - 💬 Ask me about **Python, Java, AWS**, or **Web Development**.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sandeepmakwana) or reach out via [email](mailto:sandeep@example.com) if you'd like to collaborate on a project.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sandeepmakwana) or reach out via [email](mailto:sandeepmakwana1@gmail.com).
 
 ---
 
@@ -122,7 +122,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sandeepma
 <br/><br/><br/><br/><br/><br/>
 
 ---
-
+<!--
 ### 🧑‍💼 &nbsp;My Projects
 
 Here are some of the projects I’ve worked on recently:
@@ -133,6 +133,7 @@ Here are some of the projects I’ve worked on recently:
 
 
 ---
+
 
 ## 🔥 My GitHub Stats:
 
@@ -147,18 +148,7 @@ Here are some of the projects I’ve worked on recently:
 
 
 ---
-
-## 🛠 &nbsp;Career Pipeline:
-
-```mermaid
-graph LR
-    A[🎓 Graduated with Computer Science Degree] --> B[💻 Joined Consultadd INC as Junior Developer]
-    B --> C[🚀 Promoted to Software Engineer Level 1]
-    C --> D[🔥 Promoted to Software Engineer Level 2]
-    D --> E[☁️ Working on Cloud & Backend Technologies]
-    E --> F[⚡ Developing High-Performance Applications]
-```
----
+-->
 
 ### 🤝 &nbsp;Let's Connect
 
