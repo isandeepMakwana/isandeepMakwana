@@ -119,11 +119,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sandeepma
       </td>
     </tr>
   </table>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
