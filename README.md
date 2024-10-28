@@ -53,9 +53,14 @@ Here are some of the projects I’ve worked on recently:
 ---
 
 ## 🔥 My GitHub Stats:
-<p align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isandeepMakwana&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Streak](https://streak-stats.demolab.com?user=isandeepMakwana&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isandeepMakwana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=isandeepMakwana&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandeep's GitHub Stats"/>
+  </a>  
 </p>
 
 
@@ -70,6 +75,7 @@ graph LR
     D --> E[☁️ Working on Cloud & Backend Technologies]
     E --> F[⚡ Developing High-Performance Applications]
 ```
+---
 
 ### 🤝 &nbsp;Let's Connect
 
