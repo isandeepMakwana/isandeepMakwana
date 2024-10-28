@@ -1,7 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-<h1 align="center">Hello, I'm Sandeep Makwana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<h1 align="center">Hi, I'm Sandeep Makwana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepmakwana"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;
   <a href="https://github.com/isandeepMakwana"><img src="https://img.shields.io/github/followers/isandeepMakwana?label=Follow&style=for-the-badge" alt="GitHub Badge"></a>&nbsp;
