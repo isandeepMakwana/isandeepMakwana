@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepmakwana"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;
   <a href="https://github.com/isandeepMakwana"><img src="https://img.shields.io/github/followers/isandeepMakwana?label=Follow&style=for-the-badge" alt="GitHub Badge"></a>&nbsp;
-  <a href="mailto:sandeep@example.com"><img src="https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:isandeepmakwana1@gmail.com"><img src="https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
